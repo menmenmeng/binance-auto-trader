@@ -2,3 +2,6 @@
 *cert*
 
 설명서.md
+
+.DS_store
+__pycache__
